@@ -90,6 +90,31 @@ Then, run the app using: <br>
 <code> docker run --name my-flask-server -p 8000:8000 flask-app </code>
 </p>
 
+## How to Use the Project
+
+<p>
+Once the app is running, click the link displayed in the terminal.
+The following web page should open in your browser:
+</p>
+
+<p>
+  <img src="images/Screenshot_homepage.png" alt="Homepage screenshot" width="600" />
+</p>
+
+<p>
+Next, choose and upload an image to be classified by clicking the <b>Select File</b> button. Then click on <b>Predict</b>:
+</p>
+
+<p>
+  <img src="images/Screenshot_leafpicture.png" alt="Upload screenshot" width="600" />
+</p>
+
+<p>Finally, the predicted result should appear on your screen:</p>
+
+<p>
+  <img src="images/Screenshot_result.png" alt="Result screenshot" width="600" />
+</p>
+
 ## Credits
 
 <p>
